@@ -1,11 +1,28 @@
 # Gadget Fraqs
 
+![Design 005](./assets/design/005designlogo.jpeg)
+
 ## Introduction
+
+Schedule week 1:
+
+-   Saturday & Sunday: Design using Figma
+-   Monday & Tuesday: Implement frontend and backend
+-   Wednesday & Thursday: Deploy backend to Heroku, connect frontend and backend
+-   Friday: add Redux
+-   Saturday:
+
+Schedule week 2:
+
+-   Monday & Tuesday:
+-   Wednesday & Thursday:
+-   Friday:
+-   Saturday: Presentation final project
 
 ## Create
 
 -   Design using Figma
--   Fontend built with React
+-   Fontend built with React and Redux
 -   Backend built Node, Express, Sequelize (MySQL) and JWT Auth
 
 ## Link
@@ -18,7 +35,10 @@
 
 ## Features
 
-## Setup and Running
+-   Responsive UI for React
+-   Database migration and data seeding
+-   User authentication using JSON Web Tokens
+-   Can login via Facebook and Google
 
 ## Design
 
