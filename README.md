@@ -10,7 +10,6 @@ Schedule week 1:
 -   Monday & Tuesday: Implement frontend and backend
 -   Wednesday & Thursday: Deploy backend to Heroku, connect frontend and backend
 -   Friday: add Redux
--   Saturday:
 
 Schedule week 2:
 
