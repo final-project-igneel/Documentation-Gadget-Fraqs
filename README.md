@@ -1,6 +1,6 @@
 # Gadget Fraqs
 
-![Design 005](./assets/design/005designlogo.jpeg)
+![Design 000](./assets/design/000designlogo.jpeg)
 
 ## Introduction
 
@@ -8,8 +8,8 @@ Schedule week 1:
 
 -   Saturday & Sunday: Design using Figma
 -   Monday & Tuesday: Implement frontend and backend
--   Wednesday & Thursday: Deploy backend to Heroku, connect frontend and backend
--   Friday: add Redux
+-   Wednesday & Thursday: Deploy backend to Heroku
+-   Friday: add Redux, connect frontend and backend
 
 Schedule week 2:
 
@@ -46,6 +46,11 @@ Figma: https://www.figma.com/file/xHh7L9OdeJcizlk6J6x1GE/FINAL-PROJECT?node-id=0
 ![Design 002](./assets/design/002design.jpeg)
 ![Design 003](./assets/design/003design.jpeg)
 ![Design 004](./assets/design/004design.jpeg)
+![Design 005](./assets/design/005design.jpeg)
+![Design 006](./assets/design/006design.jpeg)
+![Design 007](./assets/design/007design.jpeg)
+![Design 008](./assets/design/008design.jpeg)
+![Design 009](./assets/design/009design.jpeg)
 
 ## License
 
